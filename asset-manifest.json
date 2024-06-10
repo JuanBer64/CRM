@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//JuanBer64.github.io/crm/static/css/main.b47ce4e2.css",
-    "main.js": "//JuanBer64.github.io/crm/static/js/main.b4bc05ad.js",
+    "main.js": "//JuanBer64.github.io/crm/static/js/main.d7111789.js",
     "static/js/453.7a8b119d.chunk.js": "//JuanBer64.github.io/crm/static/js/453.7a8b119d.chunk.js",
     "static/media/primeicons.svg": "//JuanBer64.github.io/crm/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/fondoPrincipal.webp": "//JuanBer64.github.io/crm/static/media/fondoPrincipal.fc40e76e3d5a80f57633.webp",
@@ -12,11 +12,11 @@
     "static/media/primeicons.woff2": "//JuanBer64.github.io/crm/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "//JuanBer64.github.io/crm/index.html",
     "main.b47ce4e2.css.map": "//JuanBer64.github.io/crm/static/css/main.b47ce4e2.css.map",
-    "main.b4bc05ad.js.map": "//JuanBer64.github.io/crm/static/js/main.b4bc05ad.js.map",
+    "main.d7111789.js.map": "//JuanBer64.github.io/crm/static/js/main.d7111789.js.map",
     "453.7a8b119d.chunk.js.map": "//JuanBer64.github.io/crm/static/js/453.7a8b119d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b47ce4e2.css",
-    "static/js/main.b4bc05ad.js"
+    "static/js/main.d7111789.js"
   ]
 }
