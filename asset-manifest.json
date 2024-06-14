@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/crm/static/css/main.ab12502d.css",
-    "main.js": "/crm/static/js/main.cf56d476.js",
+    "main.css": "/crm/static/css/main.8d3a8950.css",
+    "main.js": "/crm/static/js/main.fb2ea84d.js",
     "static/js/453.7a8b119d.chunk.js": "/crm/static/js/453.7a8b119d.chunk.js",
     "static/media/Fondo.webp": "/crm/static/media/Fondo.5ecc59ba3ca865c94428.webp",
     "static/media/primeicons.svg": "/crm/static/media/primeicons.6ed59f962963a4a73af2.svg",
@@ -11,12 +11,12 @@
     "static/media/primeicons.ttf": "/crm/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
     "static/media/primeicons.woff2": "/crm/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/crm/index.html",
-    "main.ab12502d.css.map": "/crm/static/css/main.ab12502d.css.map",
-    "main.cf56d476.js.map": "/crm/static/js/main.cf56d476.js.map",
+    "main.8d3a8950.css.map": "/crm/static/css/main.8d3a8950.css.map",
+    "main.fb2ea84d.js.map": "/crm/static/js/main.fb2ea84d.js.map",
     "453.7a8b119d.chunk.js.map": "/crm/static/js/453.7a8b119d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab12502d.css",
-    "static/js/main.cf56d476.js"
+    "static/css/main.8d3a8950.css",
+    "static/js/main.fb2ea84d.js"
   ]
 }
